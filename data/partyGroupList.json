@@ -1,0 +1,626 @@
+{
+    "ประยุทธ์-50": {
+        "government": "ประยุทธ์",
+        "top": 50,
+        "data": [
+            {
+                "party_group": "เพื่อไทย",
+                "count": 32,
+                "order": 1,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 5,
+                "order": 2,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 3,
+                "order": 3,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 3,
+                "order": 9,
+                "color": "#404040"
+            },
+            {
+                "party_group": "ก้าวไกล",
+                "count": 2,
+                "order": 5,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 2,
+                "order": 6,
+                "color": "#2C3487"
+            },
+            {
+                "party_group": "เสรีรวมไทย",
+                "count": 2,
+                "order": 7,
+                "color": "#D0A200"
+            },
+            {
+                "party_group": "ชาติไทยพัฒนา",
+                "count": 1,
+                "order": 8,
+                "color": "#FF5BD1"
+            }
+        ]
+    },
+    "ประยุทธ์-100": {
+        "government": "ประยุทธ์",
+        "top": 100,
+        "data": [
+            {
+                "party_group": "เพื่อไทย",
+                "count": 60,
+                "order": 1,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 14,
+                "order": 9,
+                "color": "#404040"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 9,
+                "order": 3,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "ก้าวไกล",
+                "count": 6,
+                "order": 4,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "เสรีรวมไทย",
+                "count": 4,
+                "order": 5,
+                "color": "#D0A200"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 3,
+                "order": 6,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "ชาติไทยพัฒนา",
+                "count": 2,
+                "order": 7,
+                "color": "#FF5BD1"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 2,
+                "order": 8,
+                "color": "#2C3487"
+            }
+        ]
+    },
+    "ประยุทธ์-all": {
+        "government": "ประยุทธ์",
+        "top": "all",
+        "data": [
+            {
+                "party_group": "เพื่อไทย",
+                "count": 135,
+                "order": 1,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 124,
+                "order": 2,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 61,
+                "order": 3,
+                "color": "#2C3487"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 56,
+                "order": 4,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "ก้าวไกล",
+                "count": 53,
+                "order": 5,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 50,
+                "order": 9,
+                "color": "#404040"
+            },
+            {
+                "party_group": "ชาติไทยพัฒนา",
+                "count": 12,
+                "order": 7,
+                "color": "#FF5BD1"
+            },
+            {
+                "party_group": "เสรีรวมไทย",
+                "count": 11,
+                "order": 8,
+                "color": "#D0A200"
+            }
+        ]
+    },
+    "เศรษฐา-50": {
+        "government": "เศรษฐา",
+        "top": 50,
+        "data": [
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 14,
+                "order": 1,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 10,
+                "order": 7,
+                "color": "#404040"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 9,
+                "order": 3,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "เพื่อไทย",
+                "count": 9,
+                "order": 4,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 6,
+                "order": 5,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 2,
+                "order": 6,
+                "color": "#2C3487"
+            }
+        ]
+    },
+    "เศรษฐา-100": {
+        "government": "เศรษฐา",
+        "top": 100,
+        "data": [
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 20,
+                "order": 1,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 19,
+                "order": 8,
+                "color": "#404040"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 17,
+                "order": 3,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 15,
+                "order": 4,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "เพื่อไทย",
+                "count": 15,
+                "order": 5,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "ก้าวไกล",
+                "count": 10,
+                "order": 6,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 4,
+                "order": 7,
+                "color": "#2C3487"
+            }
+        ]
+    },
+    "เศรษฐา-all": {
+        "government": "เศรษฐา",
+        "top": "all",
+        "data": [
+            {
+                "party_group": "ก้าวไกล",
+                "count": 148,
+                "order": 1,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "เพื่อไทย",
+                "count": 139,
+                "order": 2,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 71,
+                "order": 3,
+                "color": "#2C3487"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 40,
+                "order": 4,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 39,
+                "order": 8,
+                "color": "#404040"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 36,
+                "order": 6,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 25,
+                "order": 7,
+                "color": "#00B2FF"
+            }
+        ]
+    },
+    "แพทองธาร-50": {
+        "government": "แพทองธาร",
+        "top": 50,
+        "data": [
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 12,
+                "order": 1,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "กล้าธรรม",
+                "count": 7,
+                "order": 2,
+                "color": "#50c770"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 7,
+                "order": 3,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 7,
+                "order": 9,
+                "color": "#404040"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 6,
+                "order": 5,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "เพื่อไทย",
+                "count": 6,
+                "order": 6,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 4,
+                "order": 7,
+                "color": "#2C3487"
+            },
+            {
+                "party_group": "ประชาชน",
+                "count": 1,
+                "order": 8,
+                "color": "#FF5C00"
+            }
+        ]
+    },
+    "แพทองธาร-100": {
+        "government": "แพทองธาร",
+        "top": 100,
+        "data": [
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 18,
+                "order": 1,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 18,
+                "order": 2,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 14,
+                "order": 9,
+                "color": "#404040"
+            },
+            {
+                "party_group": "กล้าธรรม",
+                "count": 12,
+                "order": 4,
+                "color": "#50c770"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 12,
+                "order": 5,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 11,
+                "order": 6,
+                "color": "#2C3487"
+            },
+            {
+                "party_group": "เพื่อไทย",
+                "count": 11,
+                "order": 7,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "ประชาชน",
+                "count": 4,
+                "order": 8,
+                "color": "#FF5C00"
+            }
+        ]
+    },
+    "แพทองธาร-all": {
+        "government": "แพทองธาร",
+        "top": "all",
+        "data": [
+            {
+                "party_group": "ประชาชน",
+                "count": 143,
+                "order": 1,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "เพื่อไทย",
+                "count": 142,
+                "order": 2,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 70,
+                "order": 3,
+                "color": "#2C3487"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 36,
+                "order": 4,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 35,
+                "order": 9,
+                "color": "#404040"
+            },
+            {
+                "party_group": "กล้าธรรม",
+                "count": 25,
+                "order": 6,
+                "color": "#50c770"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 25,
+                "order": 7,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 20,
+                "order": 8,
+                "color": "#2276EF"
+            }
+        ]
+    },
+    "อนุทิน-50": {
+        "government": "อนุทิน",
+        "top": 50,
+        "data": [
+            {
+                "party_group": "เพื่อไทย",
+                "count": 22,
+                "order": 1,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 11,
+                "order": 2,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 9,
+                "order": 3,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "กล้าธรรม",
+                "count": 2,
+                "order": 4,
+                "color": "#50c770"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 2,
+                "order": 5,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 2,
+                "order": 6,
+                "color": "#2C3487"
+            },
+            {
+                "party_group": "ประชาชน",
+                "count": 1,
+                "order": 7,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 1,
+                "order": 9,
+                "color": "#404040"
+            }
+        ]
+    },
+    "อนุทิน-100": {
+        "government": "อนุทิน",
+        "top": 100,
+        "data": [
+            {
+                "party_group": "เพื่อไทย",
+                "count": 50,
+                "order": 1,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 18,
+                "order": 2,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 12,
+                "order": 3,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 8,
+                "order": 9,
+                "color": "#404040"
+            },
+            {
+                "party_group": "กล้าธรรม",
+                "count": 6,
+                "order": 5,
+                "color": "#50c770"
+            },
+            {
+                "party_group": "ประชาชน",
+                "count": 2,
+                "order": 6,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 2,
+                "order": 7,
+                "color": "#2276EF"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 2,
+                "order": 8,
+                "color": "#2C3487"
+            }
+        ]
+    },
+    "อนุทิน-all": {
+        "government": "อนุทิน",
+        "top": "all",
+        "data": [
+            {
+                "party_group": "ประชาชน",
+                "count": 143,
+                "order": 1,
+                "color": "#FF5C00"
+            },
+            {
+                "party_group": "เพื่อไทย",
+                "count": 138,
+                "order": 2,
+                "color": "#F41724"
+            },
+            {
+                "party_group": "ภูมิใจไทย",
+                "count": 69,
+                "order": 3,
+                "color": "#2C3487"
+            },
+            {
+                "party_group": "อื่นๆ",
+                "count": 37,
+                "order": 9,
+                "color": "#404040"
+            },
+            {
+                "party_group": "รวมไทยสร้างชาติ",
+                "count": 35,
+                "order": 5,
+                "color": "#1445C3"
+            },
+            {
+                "party_group": "กล้าธรรม",
+                "count": 25,
+                "order": 6,
+                "color": "#50c770"
+            },
+            {
+                "party_group": "ประชาธิปัตย์",
+                "count": 25,
+                "order": 7,
+                "color": "#00B2FF"
+            },
+            {
+                "party_group": "พลังประชารัฐ",
+                "count": 20,
+                "order": 8,
+                "color": "#2276EF"
+            }
+        ]
+    }
+}
